@@ -1,3 +1,5 @@
-## Demo in js
+## Demo in JS
 
-### this task for practice functions and Here you will find [Live Demo](https://github.com/Marwan-shahata/javascript/lab04/dom)
+This task is for practicing DOM functions.
+- [View Live Demo](https://marwan-shahata.github.io/javascript/lab04/dom/)
+- [View Source Code](https://github.com/Marwan-shahata/javascript/tree/main/lab04/dom)
